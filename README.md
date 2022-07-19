@@ -5,7 +5,6 @@
 * 프록시 서버로 Nginx, 백엔드 서버로 NestJS를 사용했고 배포에는 docker-compose를 활용했습니다.
 
 <br>
-<br>
 
 ### 구현 과정
 
