@@ -12,7 +12,7 @@
 
 * AWS EC2 인스턴스를 생성합니다.
 
-  ![](https://user-images.githubusercontent.com/40125372/179642712-025a20fe-cb19-4409-83f3-274b05b022f2.PNG)
+  ![](https://user-images.githubusercontent.com/40125372/179646834-869f0c05-d4f3-4890-9192-b338c94e0c73.PNG)
 
 * Elastic IP를 할당하고 생성한 인스턴스에 연결합니다.
 
