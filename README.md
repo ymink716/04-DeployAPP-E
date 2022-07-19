@@ -1,11 +1,12 @@
 # 04-DeployAPP-E
 4주차 과제 / Amazon EC2를 이용하여, Free-Tier 서버를 생성합니다.
-개인 작업물이 담긴 branch 입니다.
 
+<br><br/>
 # STACK
 Docker / Nginx / AWS EC2 / Node JS
 
-#### :family:세상에 e런팀e\_팀 개인 branch
+<br><br/>
+## :family:세상에 e런팀e\_팀 개인 branch
 
 | 이름 | branch |
 | --- | --- |
